@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anandgupadhyay
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on iOS Related stuffs
 - 📫 How to reach me anandgupadhyay03@gmail.com
 
