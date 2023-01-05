@@ -10,8 +10,9 @@ https://www.hackerrank.com/certificates/79da987d31bc
 
 
 Hacker Rank
-png/dev/services/hackerrank@3x.png
-https://www.hackerrank.com/anandgupadhyay03
+<p>
+<a href="https://www.hackerrank.com/anandgupadhyay03)"><img src="https://github.com/mariazevedo88/hackerrank-challenges/raw/master/src/main/resources/logo.png"></a>
+
 
 <!---
 anandgupadhyay/anandgupadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
