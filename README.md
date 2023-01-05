@@ -5,7 +5,7 @@
 
 
 <p>
-<a href="https://www.hackerrank.com/anandgupadhyay03)"><img src="https://github.com/mariazevedo88/hackerrank-challenges/raw/master/src/main/resources/logo.png"></a>
+<a href="https://www.hackerrank.com/anandgupadhyay03"><img src="https://github.com/mariazevedo88/hackerrank-challenges/raw/master/src/main/resources/logo.png"></a>
 
 
 Certificates
