@@ -4,8 +4,8 @@
 - 📫 How to reach me anandgupadhyay03@gmail.com
 
 
-<p>
-<a href="https://www.hackerrank.com/anandgupadhyay03"><img src="https://github.com/mariazevedo88/hackerrank-challenges/raw/master/src/main/resources/logo.png"></a>
+
+<iframe src="https://hackerrank-badge.herokuapp.com/anandgupadhyay" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 
 
 Certificates
