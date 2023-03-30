@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anandgupadhyay
-- 👀 I’m interested in iOS Development
-- 💞️ I’m looking to collaborate on iOS Related stuffs
-- 📫 How to reach me anandgupadhyay03@gmail.com
+- 👀 iOS Swift SwiftUI Development | Project Management
+- 💞️ Open to collaborate on End to End Software Solution and IT Implementation and Support
+- 📫 anandgupadhyay03@gmail.com
 
 
 
