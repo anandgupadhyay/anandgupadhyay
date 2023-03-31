@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anandgupadhyay
 - 👀 iOS Swift SwiftUI Development | Project Management
-- 💞️ Open to collaborate on End to End Software Solution and IT Implementation and Support
 - 📫 anandgupadhyay03@gmail.com
 
 
