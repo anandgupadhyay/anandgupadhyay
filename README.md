@@ -2,7 +2,14 @@
 - 👀 iOS Swift SwiftUI Development | Project Management
 - 📫 anandgupadhyay03@gmail.com
 
-
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/anandgupadhyay">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/anandgupadhyay03">
+    <img src="https://img.shields.io/badge/Hacker-Rank" alt="Hacker Badge"/>
+  </a>
+</div>
 
 Certificates
 
